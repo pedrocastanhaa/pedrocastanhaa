@@ -76,7 +76,7 @@ Neste perfil você encontrará projetos relacionados a:
 
 ## Contato
 
-LinkedIn: (adicione seu link aqui)
+LinkedIn: https://www.linkedin.com/in/pedro-henrique-oliveira-castanha-a94574257/
 
 ---
 
