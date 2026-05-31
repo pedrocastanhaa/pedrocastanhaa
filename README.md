@@ -74,10 +74,6 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocastanhaa&show_icons=true&theme=tokyonight&count_private=true"/>
-
-
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocastanhaa&layout=compact&theme=tokyonight"/>
 
 
