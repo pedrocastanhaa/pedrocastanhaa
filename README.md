@@ -72,10 +72,6 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocastanhaa&layout=compact&theme=tokyonight"/>
-
-
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrocastanhaa&theme=tokyonight"/>
 
 
